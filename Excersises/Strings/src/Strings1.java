@@ -1,5 +1,9 @@
+import java.util.Scanner;
+
 public class Strings1 {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        String one = "hello";
+        String two = " world";
+        System.out.println(concatinate(one,two));
     }
 }
