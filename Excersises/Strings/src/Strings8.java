@@ -1,7 +1,7 @@
-public class Strings6 {
+public class Strings8 {
     public static void main(String[] args) {
-        //Skapa en metod som tar emot en sträng och returnerar en ny sträng med endast gemener.
-        //samma som uppgift 8.
+        //Skapa en metod som tar emot en sträng och returnerar sama sträng som små bokstäver.
+        //
         String one = "MONKAIEH";
         System.out.println(gemener(one));
     }

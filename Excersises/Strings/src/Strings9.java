@@ -1,7 +1,7 @@
-public class Strings5 {
+public class Strings9 {
     public static void main(String[] args) {
-        //Skapa en metod som tar emot en sträng och returnerar en ny sträng med endast versaler.
-        //samma som uppgift 9:
+        //Skapa en metod som tar emot en sträng och returnerar sama sträng som stora bokstäver.
+
         String one = "monkey";
         System.out.println(versal(one));
     }
