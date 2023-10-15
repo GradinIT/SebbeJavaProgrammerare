@@ -6,4 +6,7 @@ public class Strings1 {
         String two = " world";
         System.out.println(concatinate(one,two));
     }
+    private static String concatinate(String a,String b){
+        return a+b;
+    }
 }
